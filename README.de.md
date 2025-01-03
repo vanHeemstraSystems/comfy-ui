@@ -11,7 +11,7 @@ bequem-ui
 -   [Bilder](./IMAGES.md)
 -   [Gedämpft](./PODMAN.md)
 -   [Referenzen](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [Telemetrie](./TELEMETRY.md)
 
 **Zusammenfassung**
 
