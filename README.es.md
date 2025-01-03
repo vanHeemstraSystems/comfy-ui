@@ -1,6 +1,6 @@
 cómodo-ui
 
-# Interfaz de usuario cómoda
+# Comfy UI
 
 > Un método mejor para utilizar modelos de difusión estables en su PC o Mac local para crear arte con IA.
 
@@ -8,7 +8,7 @@ cómodo-ui
 -   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
 -   [Anfitriones](./HOSTS.md)
--   [Imágenes](./IMAGES.md)
+-   [Images](./IMAGES.md)
 -   [Suave](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Telemetria](./TELEMETRY.md)
@@ -21,7 +21,7 @@ Generado con[ritr](https://app.rytr.me)
 
 ## 100 - Introducción
 
-See [README.md](./100/README.md)
+Ver[README.md](./100/README.md)
 
 ## 200 - Requisitos
 
