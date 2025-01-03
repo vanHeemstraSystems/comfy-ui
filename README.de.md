@@ -11,7 +11,7 @@ bequem-ui
 -   [Bilder](./IMAGES.md)
 -   [Gedämpft](./PODMAN.md)
 -   [Referenzen](./REFERENCES.md)
--   [Telemetrie](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **Zusammenfassung**
 
@@ -31,6 +31,6 @@ Sehen[README.md](./200/README.md)
 
 Sehen[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 – Fazit
 
 Sehen[README.md](./400/README.md)
