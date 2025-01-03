@@ -24,4 +24,9 @@ Repeat the node creation but now rename it to **CLIP Text Encode (Negative)** an
 
 ![comfyai_new_workflow_007](https://github.com/user-attachments/assets/a308a639-2de0-4513-8151-105f0c546511)
 
+By right-clicking on the node, we can change its color. We'll color the **Positive** node **green**, and the **Negative** node **red** for ease of reference.
+
+![comfyai_new_workflow_008](https://github.com/user-attachments/assets/107ebb05-7c96-49d1-a3ff-c7d82b86dd50)
+
+
 MORE ...
