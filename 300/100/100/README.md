@@ -8,7 +8,7 @@ We change the model to **Dream-Shaper-8.safetensors** by clicking on the arrows 
 
 ![comfyai_new_workflow_003](https://github.com/user-attachments/assets/b18c6380-8d1c-4121-b733-c18747c73cef)
 
-Zoom out a bit so you have enough space for adding more nodes. Next, click on the yellow dot next to **Clip** on the **Load Checkpoint** Node and drag it to the right and let go. A new Clip Dialogue pops up. Select **CLIPTextEncode** as this will contain our Prompt soon.
+Zoom out a bit so you have enough space for adding more nodes. Next, click on the yellow dot next to **Clip** on the **Load Checkpoint** Node and drag it to the right and let go. A new **CLIP** menu pops up. Select **CLIPTextEncode** as this will contain our Prompt soon.
 
 ![comfyai_new_workflow_004](https://github.com/user-attachments/assets/6cb9934b-b92d-42b5-8088-6a0e0abda92d)
 
@@ -27,6 +27,10 @@ Repeat the node creation but now rename it to **CLIP Text Encode (Negative)** an
 By right-clicking on the node, we can change its color. We'll color the **Positive** node **green**, and the **Negative** node **red** for ease of reference.
 
 ![comfyai_new_workflow_008](https://github.com/user-attachments/assets/107ebb05-7c96-49d1-a3ff-c7d82b86dd50)
+
+Next, click on the yellow dot next to **CONDITIONING** on the ```CLIP Text Encode (Positive)``` node and drag it to the right and let go. The **CONDITIONING** menu pops up and we'll choose **KSampler**.
+
+
 
 
 MORE ...
