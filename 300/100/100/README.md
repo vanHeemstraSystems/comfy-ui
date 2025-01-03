@@ -30,6 +30,8 @@ By right-clicking on the node, we can change its color. We'll color the **Positi
 
 Next, click on the yellow dot next to **CONDITIONING** on the ```CLIP Text Encode (Positive)``` node and drag it to the right and let go. The **CONDITIONING** menu pops up and we'll choose **KSampler**.
 
+![comfyai_new_workflow_009](https://github.com/user-attachments/assets/e8b4d0ef-3113-4e33-a3f2-42d6470c3f32)
+
 
 
 
