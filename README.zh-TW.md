@@ -1,6 +1,6 @@
-comfy-ui
+舒適的使用者介面
 
-# 舒適的使用者介面
+# Comfy UI
 
 > 在本地 PC 或 Mac 上使用穩定的擴散模型來創建 AI 藝術的更好方法。
 
@@ -25,7 +25,7 @@ comfy-ui
 
 ## 200 - 要求
 
-See [README.md](./200/README.md)
+看[README.md](./200/README.md)
 
 ## 300 - 建立我們的應用程式
 
