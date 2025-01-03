@@ -40,7 +40,9 @@ Next, connect the **MODEL** purple dot from the **Load Checkpoint** node to the 
 
 ![comfyai_new_workflow_011](https://github.com/user-attachments/assets/68feb9ef-6b86-4080-849d-fe11b41007ca)
 
+Moving on, we drag a line from the pink dot next to **latent_image** in the **KSampler** node and drop it somewhere below on the canvas. The **LATENT** menu pops up and we choose **EmptyLatentImage**.
 
+![comfyai_new_workflow_012](https://github.com/user-attachments/assets/603686b5-e0d0-417e-8548-08a9e0541666)
 
 
 MORE ...
