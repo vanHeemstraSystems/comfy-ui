@@ -5,10 +5,10 @@ comfy-ui
 > طريقة أفضل لاستخدام نماذج الانتشار المستقرة على جهاز الكمبيوتر المحلي أو جهاز Mac لإنشاء فن الذكاء الاصطناعي.
 
 -   [DNS](./DNS.md)
--   [التوثيق](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
 -   [المضيفين](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [الصور](./IMAGES.md)
 -   [مهزوما](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
 -   [القياس عن بعد](./TELEMETRY.md)
@@ -17,7 +17,7 @@ comfy-ui
 
 نص
 
-ولدت مع[ريتر](https://app.rytr.me)
+ولدت مع[Rytr](https://app.rytr.me)
 
 ## 100- مقدمة
 
