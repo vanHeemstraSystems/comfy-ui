@@ -44,5 +44,9 @@ Moving on, we drag a line from the pink dot next to **latent_image** in the **KS
 
 ![comfyai_new_workflow_012](https://github.com/user-attachments/assets/603686b5-e0d0-417e-8548-08a9e0541666)
 
+The **Empty Latent Image** node shows the **image size** that we will start with, here **512** pixels **width** by **512** pixels **height** and we'll be creating **1** image at a time (i.e. **batchsize** = 1):
+
+![comfyai_new_workflow_013](https://github.com/user-attachments/assets/d2a5cd23-e3a7-4fde-9819-8a2cb11eed16)
+
 
 MORE ...
