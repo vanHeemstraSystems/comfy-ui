@@ -1,11 +1,11 @@
 Repository-Name
 
-# Repository-Name
+# Repository Name
 
 > Slugline
 
 -   [DNS](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [Dokumentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
