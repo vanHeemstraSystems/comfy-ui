@@ -15,7 +15,7 @@ interface utilisateur confortable
 
 **Résumé exécutif**
 
-Text
+Texte
 
 Généré avec[Ritr](https://app.rytr.me)
 
@@ -29,7 +29,7 @@ Voir[README.md](./200/README.md)
 
 ## 300 - Construire notre application
 
-See [README.md](./300/README.md)
+Voir[README.md](./300/README.md)
 
 ## 400 - Conclusion
 
