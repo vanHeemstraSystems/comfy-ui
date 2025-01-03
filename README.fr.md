@@ -1,8 +1,8 @@
 interface utilisateur confortable
 
-# Interface utilisateur confortable
+# Comfy UI
 
-> Une meilleure méthode pour utiliser des modèles de diffusion stables sur votre PC ou Mac local pour créer de l'art IA.
+> A better method to use stable diffusion models on your local PC or Mac to create AI art.
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
@@ -11,9 +11,9 @@ interface utilisateur confortable
 -   [Images](./IMAGES.md)
 -   [Tamisé](./PODMAN.md)
 -   [Références](./REFERENCES.md)
--   [Télémétrie](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
-**Résumé exécutif**
+**Executive Summary**
 
 Texte
 
@@ -33,4 +33,4 @@ Voir[README.md](./300/README.md)
 
 ## 400 - Conclusion
 
-Voir[README.md](./400/README.md)
+See [README.md](./400/README.md)
