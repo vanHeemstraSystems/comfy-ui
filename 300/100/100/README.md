@@ -32,6 +32,10 @@ Next, click on the yellow dot next to **CONDITIONING** on the ```CLIP Text Encod
 
 ![comfyai_new_workflow_009](https://github.com/user-attachments/assets/e8b4d0ef-3113-4e33-a3f2-42d6470c3f32)
 
+Drag the lines from the CONDITIONING dots of each **CLIP** node to their respective input dots. Hence, CLIP Text Encode (Positive) to **positive** of KSampler, and CLIP Text Encode (Negative) to **negative** of KSampler.
+
+![comfyai_new_workflow_010](https://github.com/user-attachments/assets/6a3d25a0-d1e5-4d37-8a1a-44501a21502b)
+
 
 
 
