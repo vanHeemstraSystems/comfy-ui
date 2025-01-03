@@ -9,8 +9,8 @@
 -   [詞彙表](./GLOSSARY.md)
 -   [Hosts](./HOSTS.md)
 -   [圖片](./IMAGES.md)
--   [柔和的](./PODMAN.md)
--   [參考](./REFERENCES.md)
+-   [Podman](./PODMAN.md)
+-   [References](./REFERENCES.md)
 -   [遙測](./TELEMETRY.md)
 
 **執行摘要**
@@ -21,11 +21,11 @@
 
 ## 100 - 簡介
 
-See [README.md](./100/README.md)
+看[README.md](./100/README.md)
 
 ## 200 - 要求
 
-See [README.md](./200/README.md)
+看[README.md](./200/README.md)
 
 ## 300 - 建立我們的應用程式
 
