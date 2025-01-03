@@ -9,7 +9,7 @@ cómodo-ui
 -   [Glosario](./GLOSSARY.md)
 -   [Anfitriones](./HOSTS.md)
 -   [Imágenes](./IMAGES.md)
--   [Suave](./PODMAN.md)
+-   [Podman](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Telemetria](./TELEMETRY.md)
 
@@ -17,7 +17,7 @@ cómodo-ui
 
 Texto
 
-Generated with [ritr](https://app.rytr.me)
+Generado con[ritr](https://app.rytr.me)
 
 ## 100 - Introducción
 
