@@ -1,4 +1,4 @@
-bequem-ui
+comfy-ui
 
 # Komfortable Benutzeroberfläche
 
