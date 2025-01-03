@@ -48,11 +48,11 @@ The **Empty Latent Image** node shows the **image size** that we will start with
 
 ![comfyai_new_workflow_013](https://github.com/user-attachments/assets/d2a5cd23-e3a7-4fde-9819-8a2cb11eed16)
 
-Now we'll drag a line from the **LATENT** purple dot in the **KSampler** node to the right and let go. A **LATENT** menu pops up where we select **VADecode**:
+Now we'll drag a line from the **LATENT** purple dot in the **KSampler** node to the right and let go. A **LATENT** menu pops up where we select **VAEDecode**:
 
 ![comfyai_new_workflow_014](https://github.com/user-attachments/assets/f7f373b8-2b2e-42fc-8754-40c0b1a7a683)
 
-Make sure the connection is actually made:
+Make sure the connection is actually made, connecting **LATENT** in **KSampler** node to **samples** in **VAE Decode** node:
 
 ![comfyai_new_workflow_015](https://github.com/user-attachments/assets/498e746e-2813-446a-8aa4-2f9237964154)
 
