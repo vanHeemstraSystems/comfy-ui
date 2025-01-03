@@ -2,7 +2,7 @@ interface utilisateur confortable
 
 # Interface utilisateur confortable
 
-> Une meilleure méthode pour utiliser des modèles de diffusion stables sur votre PC ou Mac local pour créer de l'art IA.
+> A better method to use stable diffusion models on your local PC or Mac to create AI art.
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
@@ -17,9 +17,9 @@ interface utilisateur confortable
 
 Texte
 
-Généré avec[Ritr](https://app.rytr.me)
+Généré avec[Rytr](https://app.rytr.me)
 
-## 100 - Présentation
+## 100 - Introduction
 
 Voir[README.md](./100/README.md)
 
