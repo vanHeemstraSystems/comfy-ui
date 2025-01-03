@@ -1,4 +1,4 @@
-bequem-ui
+comfy-ui
 
 # Komfortable Benutzeroberfläche
 
@@ -6,7 +6,7 @@ bequem-ui
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
--   [Glossar](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
 -   [Gedämpft](./PODMAN.md)
@@ -17,7 +17,7 @@ bequem-ui
 
 Text
 
-Erstellt mit[Ritr](https://app.rytr.me)
+Erstellt mit[Rytr](https://app.rytr.me)
 
 ## 100 - Einführung
 
@@ -25,7 +25,7 @@ Sehen[README.md](./100/README.md)
 
 ## 200 – Anforderungen
 
-Sehen[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 – Erstellen unserer Anwendung
 
