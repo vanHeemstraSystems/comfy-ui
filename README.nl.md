@@ -1,6 +1,6 @@
 comfortabel-ui
 
-# Comfortabele gebruikersinterface
+# Comfy UI
 
 > Een betere methode om stabiele diffusiemodellen op uw lokale pc of Mac te gebruiken om AI-kunst te maken.
 
