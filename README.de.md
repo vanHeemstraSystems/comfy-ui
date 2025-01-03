@@ -2,14 +2,14 @@ bequem-ui
 
 # Komfortable Benutzeroberfläche
 
-> A better method to use stable diffusion models on your local PC or Mac to create AI art.
+> Eine bessere Methode, stabile Diffusionsmodelle auf Ihrem lokalen PC oder Mac zu verwenden, um KI-Kunst zu erstellen.
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
--   [Gedämpft](./PODMAN.md)
+-   [Podman](./PODMAN.md)
 -   [Referenzen](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
@@ -21,7 +21,7 @@ Erstellt mit[Ritr](https://app.rytr.me)
 
 ## 100 - Einführung
 
-Sehen[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 – Anforderungen
 
