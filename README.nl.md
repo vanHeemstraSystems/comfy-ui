@@ -10,10 +10,10 @@ comfortabel-ui
 -   [Gastheren](./HOSTS.md)
 -   [Afbeeldingen](./IMAGES.md)
 -   [Ingetogen](./PODMAN.md)
--   [References](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [Referenties](./REFERENCES.md)
+-   [Telemetrie](./TELEMETRY.md)
 
-**Executive Summary**
+**Samenvatting**
 
 Tekst
 
@@ -33,4 +33,4 @@ Zien[README.md](./300/README.md)
 
 ## 400 - Conclusie
 
-See [README.md](./400/README.md)
+Zien[README.md](./400/README.md)
