@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+comfy-ui
+# Comfy UI
 
-> Slugline
+> A better method to use stable diffusion models on your local PC or Mac to create AI art.
 
 - [DNS](./DNS.md)
 - [Documentation](./DOCUMENTATION.md)
