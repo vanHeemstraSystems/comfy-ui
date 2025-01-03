@@ -1,6 +1,6 @@
 舒适的用户界面
 
-# Comfy UI
+# 舒适的用户界面
 
 > 在本地 PC 或 Mac 上使用稳定的扩散模型来创建 AI 艺术的更好方法。
 
@@ -15,9 +15,9 @@
 
 **执行摘要**
 
-Text
+文本
 
-生成于[里特尔](https://app.rytr.me)
+生成于[Rytr](https://app.rytr.me)
 
 ## 100 - 简介
 
@@ -31,6 +31,6 @@ Text
 
 看[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - 结论
 
 看[README.md](./400/README.md)
