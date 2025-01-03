@@ -1,13 +1,13 @@
 आरामदायक-उई
 
-# आरामदायक यूआई
+# Comfy UI
 
 > एआई कला बनाने के लिए अपने स्थानीय पीसी या मैक पर स्थिर प्रसार मॉडल का उपयोग करने का एक बेहतर तरीका।
 
 -   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
--   [मेजबान](./HOSTS.md)
+-   [Hosts](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
 -   [मातहत](./PODMAN.md)
 -   [संदर्भ](./REFERENCES.md)
@@ -17,13 +17,13 @@
 
 मूलपाठ
 
-Generated with [रित्र](https://app.rytr.me)
+के साथ उत्पन्न हुआ[रित्र](https://app.rytr.me)
 
 ## 100 - परिचय
 
 देखना[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - आवश्यकताएँ
 
 देखना[README.md](./200/README.md)
 
