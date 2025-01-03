@@ -13,7 +13,7 @@ bequem-ui
 -   [Referenzen](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Zusammenfassung**
+**Executive Summary**
 
 Text
 
@@ -21,7 +21,7 @@ Erstellt mit[Ritr](https://app.rytr.me)
 
 ## 100 - Einführung
 
-See [README.md](./100/README.md)
+Sehen[README.md](./100/README.md)
 
 ## 200 – Anforderungen
 
