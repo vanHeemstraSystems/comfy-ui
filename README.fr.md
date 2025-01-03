@@ -1,15 +1,15 @@
-nom du référentiel
+interface utilisateur confortable
 
-# Nom du référentiel
+# Interface utilisateur confortable
 
-> Slugline
+> A better method to use stable diffusion models on your local PC or Mac to create AI art.
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
 -   [Glossaire](./GLOSSARY.md)
 -   [Hôtes](./HOSTS.md)
 -   [Images](./IMAGES.md)
--   [Podman](./PODMAN.md)
+-   [Tamisé](./PODMAN.md)
 -   [Références](./REFERENCES.md)
 -   [Télémétrie](./TELEMETRY.md)
 
