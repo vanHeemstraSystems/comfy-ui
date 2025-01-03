@@ -1,17 +1,17 @@
 舒适的用户界面
 
-# Comfy UI
+# 舒适的用户界面
 
 > 在本地 PC 或 Mac 上使用稳定的扩散模型来创建 AI 艺术的更好方法。
 
 -   [域名系统](./DNS.md)
--   [文档](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
 -   [主办方](./HOSTS.md)
 -   [图片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
 -   [参考](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [遥测](./TELEMETRY.md)
 
 **执行摘要**
 
@@ -25,7 +25,7 @@
 
 ## 200 - 要求
 
-看[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 - 构建我们的应用程序
 
