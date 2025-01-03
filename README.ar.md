@@ -1,11 +1,11 @@
 comfy-ui
 
-# واجهة مستخدم مريحة
+# Comfy UI
 
 > طريقة أفضل لاستخدام نماذج الانتشار المستقرة على جهاز الكمبيوتر المحلي أو جهاز Mac لإنشاء فن الذكاء الاصطناعي.
 
 -   [DNS](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [التوثيق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
@@ -25,7 +25,7 @@ comfy-ui
 
 ## 200 - المتطلبات
 
-See [README.md](./200/README.md)
+يرى[README.md](./200/README.md)
 
 ## 300 – بناء تطبيقنا
 
