@@ -2,7 +2,7 @@ comfy-ui
 
 # واجهة مستخدم مريحة
 
-> طريقة أفضل لاستخدام نماذج الانتشار المستقرة على جهاز الكمبيوتر المحلي أو جهاز Mac لإنشاء فن الذكاء الاصطناعي.
+> A better method to use stable diffusion models on your local PC or Mac to create AI art.
 
 -   [DNS](./DNS.md)
 -   [التوثيق](./DOCUMENTATION.md)
@@ -10,8 +10,8 @@ comfy-ui
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
 -   [مهزوما](./PODMAN.md)
--   [References](./REFERENCES.md)
--   [القياس عن بعد](./TELEMETRY.md)
+-   [مراجع](./REFERENCES.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **ملخص تنفيذي**
 
@@ -27,7 +27,7 @@ comfy-ui
 
 يرى[README.md](./200/README.md)
 
-## 300 – بناء تطبيقنا
+## 300 - Building Our Application
 
 يرى[README.md](./300/README.md)
 
