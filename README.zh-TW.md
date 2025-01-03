@@ -7,15 +7,15 @@
 -   [域名系統](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
--   [Hosts](./HOSTS.md)
+-   [主辦單位](./HOSTS.md)
 -   [圖片](./IMAGES.md)
--   [Podman](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [柔和的](./PODMAN.md)
+-   [參考](./REFERENCES.md)
 -   [遙測](./TELEMETRY.md)
 
 **執行摘要**
 
-文字
+Text
 
 生成於[里特爾](https://app.rytr.me)
 
