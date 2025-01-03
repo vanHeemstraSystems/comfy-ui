@@ -1,8 +1,8 @@
-nombre-repositorio
+cómodo-ui
 
-# Nombre del repositorio
+# Interfaz de usuario cómoda
 
-> línea de bala
+> Un método mejor para utilizar modelos de difusión estables en su PC o Mac local para crear arte con IA.
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
@@ -21,7 +21,7 @@ Generado con[ritr](https://app.rytr.me)
 
 ## 100 - Introducción
 
-Ver[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - Requisitos
 
