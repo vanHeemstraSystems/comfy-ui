@@ -1,6 +1,6 @@
 cómodo-ui
 
-# Comfy UI
+# Interfaz de usuario cómoda
 
 > Un método mejor para utilizar modelos de difusión estables en su PC o Mac local para crear arte con IA.
 
