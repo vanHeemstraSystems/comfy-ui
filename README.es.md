@@ -1,6 +1,6 @@
 cómodo-ui
 
-# Comfy UI
+# Interfaz de usuario cómoda
 
 > Un método mejor para utilizar modelos de difusión estables en su PC o Mac local para crear arte con IA.
 
@@ -8,7 +8,7 @@ cómodo-ui
 -   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
 -   [Anfitriones](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [Imágenes](./IMAGES.md)
 -   [Suave](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Telemetria](./TELEMETRY.md)
@@ -29,7 +29,7 @@ Ver[README.md](./200/README.md)
 
 ## 300 - Construyendo nuestra aplicación
 
-Ver[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - Conclusión
 
