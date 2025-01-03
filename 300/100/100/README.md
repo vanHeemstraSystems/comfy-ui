@@ -16,7 +16,12 @@ The new Node called **CLIP Text Encode (Prompt)** we'll rename to **CLIP Text En
 
 ![comfyai_new_workflow_005](https://github.com/user-attachments/assets/17e92d89-02ab-4743-8f7c-fe582d07b334)
 
+Add the prompt: **A box of stones** (just as an example) inside the CLIP Text Encode (Positive) node.
 
+![comfyai_new_workflow_006](https://github.com/user-attachments/assets/21771e7d-acc3-4544-aee9-a2e50aa7e3a9)
 
+Repeat the node creation but now rename it to **CLIP Text Encode (Negative)** and add the prompt **A bag of noodles** (just as a contrary example).
+
+![comfyai_new_workflow_007](https://github.com/user-attachments/assets/a308a639-2de0-4513-8151-105f0c546511)
 
 MORE ...
