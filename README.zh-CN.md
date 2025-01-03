@@ -2,10 +2,10 @@
 
 # 舒适的用户界面
 
-> 在本地 PC 或 Mac 上使用稳定的扩散模型来创建 AI 艺术的更好方法。
+> A better method to use stable diffusion models on your local PC or Mac to create AI art.
 
 -   [域名系统](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
 -   [主办方](./HOSTS.md)
 -   [图片](./IMAGES.md)
@@ -19,13 +19,13 @@
 
 生成于[里特尔](https://app.rytr.me)
 
-## 100 - 简介
+## 100 - Introduction
 
 看[README.md](./100/README.md)
 
 ## 200 - 要求
 
-See [README.md](./200/README.md)
+看[README.md](./200/README.md)
 
 ## 300 - 构建我们的应用程序
 
