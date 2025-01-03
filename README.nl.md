@@ -1,27 +1,27 @@
-repositorynaam
+comfy-ui
 
-# Naam van opslagplaats
+# Comfortabele gebruikersinterface
 
-> Slaklijn
+> Een betere methode om stabiele diffusiemodellen op uw lokale pc of Mac te gebruiken om AI-kunst te maken.
 
 -   [DNS](./DNS.md)
--   [Documentatie](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
 -   [Gastheren](./HOSTS.md)
 -   [Afbeeldingen](./IMAGES.md)
 -   [Ingetogen](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
--   [Telemetrie](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
-**Samenvatting**
+**Executive Summary**
 
-Text
+Tekst
 
 Gegenereerd met[Ritr](https://app.rytr.me)
 
 ## 100 - Inleiding
 
-Zien[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - Vereisten
 
