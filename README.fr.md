@@ -2,7 +2,7 @@ interface utilisateur confortable
 
 # Interface utilisateur confortable
 
-> Une meilleure méthode pour utiliser des modèles de diffusion stables sur votre PC ou Mac local pour créer de l'art IA.
+> A better method to use stable diffusion models on your local PC or Mac to create AI art.
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
@@ -27,7 +27,7 @@ Voir[README.md](./100/README.md)
 
 Voir[README.md](./200/README.md)
 
-## 300 - Créer notre application
+## 300 - Construire notre application
 
 Voir[README.md](./300/README.md)
 
