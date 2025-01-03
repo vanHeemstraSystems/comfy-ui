@@ -1,6 +1,6 @@
 舒适的用户界面
 
-# 舒适的用户界面
+# Comfy UI
 
 > 在本地 PC 或 Mac 上使用稳定的扩散模型来创建 AI 艺术的更好方法。
 
@@ -11,7 +11,7 @@
 -   [图片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
 -   [参考](./REFERENCES.md)
--   [遥测](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **执行摘要**
 
