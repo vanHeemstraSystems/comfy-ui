@@ -36,6 +36,10 @@ Drag the lines from the CONDITIONING dots of each **CLIP** node to their respect
 
 ![comfyai_new_workflow_010](https://github.com/user-attachments/assets/6a3d25a0-d1e5-4d37-8a1a-44501a21502b)
 
+Next, connect the **MODEL** yellow dot from the **Load Checkpoint** node to the **model** in the **KSampler** node, like so:
+
+![comfyai_new_workflow_011](https://github.com/user-attachments/assets/68feb9ef-6b86-4080-849d-fe11b41007ca)
+
 
 
 
