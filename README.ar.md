@@ -17,7 +17,7 @@ comfy-ui
 
 نص
 
-ولدت مع[Rytr](https://app.rytr.me)
+ولدت مع[ريتر](https://app.rytr.me)
 
 ## 100- مقدمة
 
