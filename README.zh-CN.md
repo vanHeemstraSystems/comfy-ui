@@ -1,8 +1,8 @@
-存储库名称
+舒适的用户界面
 
-# 存储库名称
+# 舒适的用户界面
 
-> 斯拉格莱恩
+> 在本地 PC 或 Mac 上使用稳定的扩散模型来创建 AI 艺术的更好方法。
 
 -   [域名系统](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
@@ -13,7 +13,7 @@
 -   [参考](./REFERENCES.md)
 -   [遥测](./TELEMETRY.md)
 
-**Executive Summary**
+**执行摘要**
 
 文本
 
