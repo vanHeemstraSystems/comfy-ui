@@ -1,6 +1,6 @@
 comfortabel-ui
 
-# Comfy UI
+# Comfortabele gebruikersinterface
 
 > Een betere methode om stabiele diffusiemodellen op uw lokale pc of Mac te gebruiken om AI-kunst te maken.
 
@@ -15,9 +15,9 @@ comfortabel-ui
 
 **Samenvatting**
 
-Tekst
+Text
 
-Gegenereerd met[Ritr](https://app.rytr.me)
+Gegenereerd met[Rytr](https://app.rytr.me)
 
 ## 100 - Inleiding
 
