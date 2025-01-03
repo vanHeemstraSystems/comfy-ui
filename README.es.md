@@ -15,7 +15,7 @@ cómodo-ui
 
 **Resumen ejecutivo**
 
-Text
+Texto
 
 Generado con[ritr](https://app.rytr.me)
 
