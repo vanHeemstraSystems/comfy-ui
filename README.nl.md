@@ -11,7 +11,7 @@ comfortabel-ui
 -   [Afbeeldingen](./IMAGES.md)
 -   [Ingetogen](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
--   [Telemetrie](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **Samenvatting**
 
