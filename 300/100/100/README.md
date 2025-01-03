@@ -56,6 +56,8 @@ Make sure the connection is actually made, connecting **LATENT** in **KSampler**
 
 ![comfyai_new_workflow_015](https://github.com/user-attachments/assets/498e746e-2813-446a-8aa4-2f9237964154)
 
+For simplicity we connect the default **VAE** pink dot of the **Loader Checkpoint** node to the **vae** pink dot of the **VAE Decode** node, although you could create a separate VAE node as input and choose from many different types (e.g. LoRa). That is outside of the scope of this example.
 
+![comfyai_new_workflow_016](https://github.com/user-attachments/assets/d4505a8a-bb28-457c-b8b4-7c16126a7dc6)
 
 MORE ...
