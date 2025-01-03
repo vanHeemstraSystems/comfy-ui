@@ -10,8 +10,8 @@ comfortabel-ui
 -   [Gastheren](./HOSTS.md)
 -   [Afbeeldingen](./IMAGES.md)
 -   [Ingetogen](./PODMAN.md)
--   [References](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [Referenties](./REFERENCES.md)
+-   [Telemetrie](./TELEMETRY.md)
 
 **Samenvatting**
 
