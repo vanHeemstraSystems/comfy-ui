@@ -1,19 +1,19 @@
 आरामदायक-उई
 
-# Comfy UI
+# आरामदायक यूआई
 
 > एआई कला बनाने के लिए अपने स्थानीय पीसी या मैक पर स्थिर प्रसार मॉडल का उपयोग करने का एक बेहतर तरीका।
 
 -   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
--   [Hosts](./HOSTS.md)
+-   [मेजबान](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
 -   [मातहत](./PODMAN.md)
 -   [संदर्भ](./REFERENCES.md)
--   [टेलीमेटरी](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
-**Executive Summary**
+**कार्यकारी सारांश**
 
 मूलपाठ
 
