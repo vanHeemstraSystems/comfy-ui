@@ -1,19 +1,19 @@
-comfy-ui
+comfortabel-ui
 
 # Comfortabele gebruikersinterface
 
 > Een betere methode om stabiele diffusiemodellen op uw lokale pc of Mac te gebruiken om AI-kunst te maken.
 
 -   [DNS](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
--   [Gastheren](./HOSTS.md)
+-   [Hosts](./HOSTS.md)
 -   [Afbeeldingen](./IMAGES.md)
 -   [Ingetogen](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [Telemetrie](./TELEMETRY.md)
 
-**Executive Summary**
+**Samenvatting**
 
 Tekst
 
@@ -21,7 +21,7 @@ Gegenereerd met[Ritr](https://app.rytr.me)
 
 ## 100 - Inleiding
 
-See [README.md](./100/README.md)
+Zien[README.md](./100/README.md)
 
 ## 200 - Vereisten
 
