@@ -52,5 +52,10 @@ Now we'll drag a line from the **LATENT** purple dot in the **KSampler** node to
 
 ![comfyai_new_workflow_014](https://github.com/user-attachments/assets/f7f373b8-2b2e-42fc-8754-40c0b1a7a683)
 
+Make sure the connection is actually made:
+
+![comfyai_new_workflow_015](https://github.com/user-attachments/assets/498e746e-2813-446a-8aa4-2f9237964154)
+
+
 
 MORE ...
