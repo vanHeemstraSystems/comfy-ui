@@ -1,6 +1,6 @@
 nombre-repositorio
 
-# Repository Name
+# Nombre del repositorio
 
 > línea de bala
 
@@ -29,7 +29,7 @@ Ver[README.md](./200/README.md)
 
 ## 300 - Construyendo nuestra aplicación
 
-Ver[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - Conclusión
 
