@@ -17,7 +17,7 @@
 
 文字
 
-生成於[里特爾](https://app.rytr.me)
+生成於[Rytr](https://app.rytr.me)
 
 ## 100 - 簡介
 
