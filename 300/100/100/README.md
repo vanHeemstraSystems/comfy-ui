@@ -70,6 +70,10 @@ Make sure the IMAGE of the **VAE Decode** node is connected to the **images** of
 
 To generate our image, click on the **QUEUE** button on the floating menu. After some time ```a box of stones``` as per the positive prompt should appear in the **Preview Image** node.
 
+![comfyai_new_workflow_019](https://github.com/user-attachments/assets/ca6b70a4-848a-44c6-86ae-37dc3c873702)
 
+Hooray!
+
+But let's continue ...
 
 MORE ...
