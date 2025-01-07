@@ -2,7 +2,7 @@ cómodo-ui
 
 # Interfaz de usuario cómoda
 
-> Un método mejor para utilizar modelos de difusión estables en su PC o Mac local para crear arte con IA.
+> A better method to use stable diffusion models on your local PC or Mac to create AI art.
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
