@@ -2,7 +2,7 @@ comfortabel-ui
 
 # Comfortabele gebruikersinterface
 
-> A better method to use stable diffusion models on your local PC or Mac to create AI art.
+> Een betere methode om stabiele diffusiemodellen op uw lokale pc of Mac te gebruiken om AI-kunst te maken.
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
@@ -13,11 +13,11 @@ comfortabel-ui
 -   [Referenties](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Executive Summary**
+**Samenvatting**
 
 Tekst
 
-Gegenereerd met[Ritr](https://app.rytr.me)
+Gegenereerd met[Rytr](https://app.rytr.me)
 
 ## 100 - Inleiding
 
