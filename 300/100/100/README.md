@@ -62,6 +62,14 @@ For simplicity we connect the default **VAE** pink dot of the **Loader Checkpoin
 
 To show the outcome of our workflow we drag in the **VAE Decode** node from the Image blue dot to the right and let go. An **IMAGE** menu pops up of which we choose **PreviewImage**.
 
+![comfyai_new_workflow_017](https://github.com/user-attachments/assets/12414ab3-0449-4072-ba85-61c1ba3fd2dd)
+
+Make sure the IMAGE of the **VAE Decode** node is connected to the **images** of the **Preview Image** node.
+
+![comfyai_new_workflow_018](https://github.com/user-attachments/assets/8bda51d5-a2a0-46d4-9f78-3ad80584536d)
+
+To generate our image, click on the **QUEUE** button on the floating menu. After some time ```a box of stones``` as per the positive prompt should appear in the **Preview Image** node.
+
 
 
 MORE ...
