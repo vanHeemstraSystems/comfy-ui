@@ -60,4 +60,8 @@ For simplicity we connect the default **VAE** pink dot of the **Loader Checkpoin
 
 ![comfyai_new_workflow_016](https://github.com/user-attachments/assets/d4505a8a-bb28-457c-b8b4-7c16126a7dc6)
 
+To show the outcome of our workflow we drag in the **VAE Decode** node from the Image blue dot to the right and let go. An **IMAGE** menu pops up of which we choose **PreviewImage**.
+
+
+
 MORE ...
