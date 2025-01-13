@@ -5,15 +5,15 @@
 > 在本地 PC 或 Mac 上使用穩定的擴散模型來創建 AI 藝術的更好方法。
 
 -   [域名系統](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
--   [主辦單位](./HOSTS.md)
+-   [Hosts](./HOSTS.md)
 -   [圖片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
 -   [參考](./REFERENCES.md)
 -   [遙測](./TELEMETRY.md)
 
-**Executive Summary**
+**執行摘要**
 
 文字
 
