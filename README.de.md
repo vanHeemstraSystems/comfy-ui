@@ -10,16 +10,16 @@ bequem-ui
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
 -   [Gedämpft](./PODMAN.md)
--   [Referenzen](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [References](./REFERENCES.md)
+-   [Telemetrie](./TELEMETRY.md)
 
 **Zusammenfassung**
 
 Text
 
-Erstellt mit[Rytr](https://app.rytr.me)
+Erstellt mit[Ritr](https://app.rytr.me)
 
-## 100 - Introduction
+## 100 - Einführung
 
 Sehen[README.md](./100/README.md)
 
