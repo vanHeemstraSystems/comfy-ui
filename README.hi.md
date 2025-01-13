@@ -2,9 +2,9 @@
 
 # आरामदायक यूआई
 
-> A better method to use stable diffusion models on your local PC or Mac to create AI art.
+> एआई कला बनाने के लिए अपने स्थानीय पीसी या मैक पर स्थिर प्रसार मॉडल का उपयोग करने का एक बेहतर तरीका।
 
--   [डीएनएस](./DNS.md)
+-   [DNS](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
 -   [मेजबान](./HOSTS.md)
