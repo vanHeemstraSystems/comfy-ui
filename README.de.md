@@ -11,15 +11,15 @@ bequem-ui
 -   [Bilder](./IMAGES.md)
 -   [Gedämpft](./PODMAN.md)
 -   [Referenzen](./REFERENCES.md)
--   [Telemetrie](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **Zusammenfassung**
 
 Text
 
-Generated with [Ritr](https://app.rytr.me)
+Erstellt mit[Rytr](https://app.rytr.me)
 
-## 100 - Einführung
+## 100 - Introduction
 
 Sehen[README.md](./100/README.md)
 
