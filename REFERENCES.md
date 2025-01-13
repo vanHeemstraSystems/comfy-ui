@@ -7,5 +7,5 @@
 - [Prompt Muse - Tutorials](https://promptmuse.com/)
 - [The best AI is still free! Forge & Flux for FREE (Easy Guide) + Animation](https://promptmuse.com/the-best-ai-is-still-free-forge-flux-for-free-easy-guide-animation/)
 - [ComfyUI-to-Python-Extension](https://github.com/pydn/ComfyUI-to-Python-Extension)
-- [ComfyUI-IF_AI_WishperSpeechNode](https://github.com/if-ai/ComfyUI-IF_AI_WishperSpeechNode)
+- [ComfyUI-IF_AI_WishperSpeechNode](https://github.com/if-ai/ComfyUI-IF_AI_WishperSpeechNode): A convenient fast Text to Speech Whisper Speech by Collabora you can train a voice on the fly on ComfyUI
 - [ComfyUI_wav2lip](https://github.com/ShmuelRonen/ComfyUI_wav2lip)
